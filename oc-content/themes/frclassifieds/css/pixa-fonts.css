@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'pixafonts';
+    src:    url('../fonts/pixafonts.eot?mcwogu');
+    src:    url('../fonts/pixafonts.eot?mcwogu#iefix') format('embedded-opentype'),
+        url('../fonts/pixafonts.ttf?mcwogu') format('truetype'),
+        url('../fonts/pixafonts.woff?mcwogu') format('woff'),
+        url('../fonts/pixafonts.svg?mcwogu#pixafonts') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.px {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'pixafonts' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.px-close:before {
+    content: "\e900";
+}
+.px-add:before {
+    content: "\e904";
+}
+.px-book:before {
+    content: "\e901";
+}
+.px-briefcase:before {
+    content: "\e902";
+}
+.px-car:before {
+    content: "\e903";
+}
+.px-enter:before {
+    content: "\e905";
+}
+.px-exit:before {
+    content: "\e906";
+}
+.px-headphone:before {
+    content: "\e907";
+}
+.px-heart:before {
+    content: "\e908";
+}
+.px-house:before {
+    content: "\e909";
+}
+.px-locked:before {
+    content: "\e90a";
+}
+.px-map-pin:before {
+    content: "\e90b";
+}
+.px-map-pin-o:before {
+    content: "\e90c";
+}
+.px-mic:before {
+    content: "\e90d";
+}
+.px-notepad:before {
+    content: "\e90e";
+}
+.px-paper-bag:before {
+    content: "\e90f";
+}
+.px-plus:before {
+    content: "\e910";
+}
+.px-tools:before {
+    content: "\e911";
+}
+.px-trolley:before {
+    content: "\e912";
+}
+.px-unlocked:before {
+    content: "\e913";
+}
+.px-user:before {
+    content: "\e914";
+}
+

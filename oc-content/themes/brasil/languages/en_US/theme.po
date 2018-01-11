@@ -1,0 +1,1032 @@
+# English translations for brasil - theme map package.
+# Copyright (C) 2016 THE brasil - theme map'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the brasil - theme map package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: brasil - theme map 3.1.0\n"
+"Report-Msgid-Bugs-To: info@osclass.org\n"
+"POT-Creation-Date: 2016-01-20 10:57+0100\n"
+"PO-Revision-Date: 2016-01-20 10:57+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tmp/brasil/./user-change_email.php:42 tmp/brasil/./alert-form.php:7
+msgid "Invalid email address"
+msgstr "Invalid email address"
+
+#: tmp/brasil/./user-change_email.php:62 tmp/brasil/./user-items.php:33
+#: tmp/brasil/./user-profile.php:37 tmp/brasil/./user-dashboard.php:33
+#: tmp/brasil/./user-change_username.php:82
+#: tmp/brasil/./user-change_password.php:33 tmp/brasil/./user-alerts.php:32
+msgid "User account manager"
+msgstr "User account manager"
+
+#: tmp/brasil/./user-change_email.php:68
+msgid "Change your e-mail"
+msgstr "Change your e-mail"
+
+#: tmp/brasil/./user-change_email.php:75
+msgid "Current e-mail"
+msgstr "Current e-mail"
+
+#: tmp/brasil/./user-change_email.php:79
+msgid "New e-mail"
+msgstr "New e-mail"
+
+#: tmp/brasil/./user-change_email.php:83 tmp/brasil/./item-edit.php:224
+#: tmp/brasil/./user-profile.php:129 tmp/brasil/./user-change_username.php:104
+#: tmp/brasil/./user-change_password.php:57
+msgid "Update"
+msgstr "Update"
+
+#: tmp/brasil/./item-edit.php:110
+msgid "Update your listing"
+msgstr "Update your listing"
+
+#: tmp/brasil/./item-edit.php:119 tmp/brasil/./item-post.php:123
+msgid "General Information"
+msgstr "General Information"
+
+#: tmp/brasil/./item-edit.php:121 tmp/brasil/./search.php:279
+#: tmp/brasil/./item-post.php:125
+msgid "Category"
+msgstr "Category"
+
+#: tmp/brasil/./item-edit.php:122 tmp/brasil/./inc.search.php:54
+#: tmp/brasil/./item-post.php:126
+msgid "Select a category"
+msgstr "Select a category"
+
+#: tmp/brasil/./item-edit.php:129 tmp/brasil/./user-items.php:53
+#: tmp/brasil/./search.php:269 tmp/brasil/./user-dashboard.php:50
+#: tmp/brasil/./item-post.php:134 tmp/brasil/./user-alerts.php:50
+msgid "Price"
+msgstr "Price"
+
+#: tmp/brasil/./item-edit.php:144 tmp/brasil/./item-post.php:148
+msgid "Photos"
+msgstr "Photos"
+
+#: tmp/brasil/./item-edit.php:153 tmp/brasil/./item-post.php:154
+msgid "Add new photo"
+msgstr "Add new photo"
+
+#: tmp/brasil/./item-edit.php:160 tmp/brasil/./item-post.php:162
+msgid "Listing Location"
+msgstr "Listing Location"
+
+#: tmp/brasil/./item-edit.php:163 tmp/brasil/./item.php:84
+#: tmp/brasil/./user-profile.php:102 tmp/brasil/./item-post.php:165
+msgid "Country"
+msgstr "Country"
+
+#: tmp/brasil/./item-edit.php:167 tmp/brasil/./item-edit.php:183
+#: tmp/brasil/./item.php:85 tmp/brasil/./user-profile.php:106
+#: tmp/brasil/./item-post.php:169 tmp/brasil/./item-post.php:185
+msgid "Region"
+msgstr "Region"
+
+#: tmp/brasil/./item-edit.php:194 tmp/brasil/./item.php:86
+#: tmp/brasil/./search.php:249 tmp/brasil/./user-profile.php:110
+#: tmp/brasil/./item-post.php:196
+msgid "City"
+msgstr "City"
+
+#: tmp/brasil/./item-edit.php:208 tmp/brasil/./item-post.php:210
+msgid "City Area"
+msgstr "City Area"
+
+#: tmp/brasil/./item-edit.php:212 tmp/brasil/./item.php:88
+#: tmp/brasil/./user-profile.php:118 tmp/brasil/./item-post.php:214
+#: tmp/brasil/./user-public-profile.php:68
+msgid "Address"
+msgstr "Address"
+
+#: tmp/brasil/./item-edit.php:225 tmp/brasil/./user-profile.php:58
+msgid "Cancel"
+msgstr "Cancel"
+
+#: tmp/brasil/./user-items.php:39
+msgid "Your listings"
+msgstr "Your listings"
+
+#: tmp/brasil/./user-items.php:39
+msgid "Post a new listing"
+msgstr "Post a new listing"
+
+#: tmp/brasil/./user-items.php:41
+msgid "You don't have any listings yet"
+msgstr "You don't have any listings yet"
+
+#: tmp/brasil/./user-items.php:47
+msgid "Active"
+msgstr "Active"
+
+#: tmp/brasil/./user-items.php:47
+msgid "Inactive"
+msgstr "Inactive"
+
+#: tmp/brasil/./user-items.php:48
+msgid "Premium"
+msgstr "Premium"
+
+#: tmp/brasil/./user-items.php:49
+msgid "Spam"
+msgstr "Spam"
+
+#: tmp/brasil/./user-items.php:52 tmp/brasil/./user-dashboard.php:49
+#: tmp/brasil/./user-alerts.php:49
+msgid "Publication date"
+msgstr "Publication date"
+
+#: tmp/brasil/./user-items.php:56 tmp/brasil/./user-dashboard.php:54
+msgid "Edit"
+msgstr "Edit"
+
+#: tmp/brasil/./user-items.php:58
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "This action can not be undone. Are you sure you want to continue?"
+
+#: tmp/brasil/./user-items.php:58 tmp/brasil/./item.php:143
+#: tmp/brasil/./user-profile.php:55
+msgid "Delete"
+msgstr "Delete"
+
+#: tmp/brasil/./user-items.php:61 tmp/brasil/./user-dashboard.php:57
+msgid "Activate"
+msgstr "Activate"
+
+#: tmp/brasil/./user-recover.php:33 tmp/brasil/./user-forgot_password.php:33
+msgid "Recover your password"
+msgstr "Recover your password"
+
+#: tmp/brasil/./user-recover.php:38 tmp/brasil/./item.php:223
+#: tmp/brasil/./user-profile.php:83 tmp/brasil/./user-login.php:38
+#: tmp/brasil/./header.php:54 tmp/brasil/./item-post.php:227
+#: tmp/brasil/./user-register.php:49
+msgid "E-mail"
+msgstr "E-mail"
+
+#: tmp/brasil/./user-recover.php:40
+msgid "Send me a new password"
+msgstr "Send me a new password"
+
+#: tmp/brasil/./item.php:60
+msgid "Edit item"
+msgstr "Edit item"
+
+#: tmp/brasil/./item.php:65
+msgid "Mark as"
+msgstr "Mark as"
+
+#: tmp/brasil/./item.php:67
+msgid "spam"
+msgstr "spam"
+
+#: tmp/brasil/./item.php:68
+msgid "misclassified"
+msgstr "misclassified"
+
+#: tmp/brasil/./item.php:69
+msgid "duplicated"
+msgstr "duplicated"
+
+#: tmp/brasil/./item.php:70
+msgid "expired"
+msgstr "expired"
+
+#: tmp/brasil/./item.php:71
+msgid "offensive"
+msgstr "offensive"
+
+#: tmp/brasil/./item.php:80
+msgid "Published date"
+msgstr "Published date"
+
+#: tmp/brasil/./item.php:81
+msgid "Modified date"
+msgstr "Modified date"
+
+#: tmp/brasil/./item.php:87 tmp/brasil/./user-profile.php:114
+msgid "City area"
+msgstr "City area"
+
+#: tmp/brasil/./item.php:111 tmp/brasil/./item-contact.php:35
+msgid "Contact seller"
+msgstr "Contact seller"
+
+#: tmp/brasil/./item.php:115
+msgid "Share"
+msgstr "Share"
+
+#: tmp/brasil/./item.php:121
+msgid "Useful information"
+msgstr "Useful information"
+
+#: tmp/brasil/./item.php:123
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Avoid scams by acting locally or paying with PayPal"
+
+#: tmp/brasil/./item.php:124
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+
+#: tmp/brasil/./item.php:125
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+
+#: tmp/brasil/./item.php:126
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+
+#: tmp/brasil/./item.php:132
+msgid "Comments"
+msgstr "Comments"
+
+#: tmp/brasil/./item.php:139
+msgid "by"
+msgstr "by"
+
+#: tmp/brasil/./item.php:143
+msgid "Delete your comment"
+msgstr "Delete your comment"
+
+#: tmp/brasil/./item.php:155
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Leave your comment (spam and offensive messages will be removed)"
+
+#: tmp/brasil/./item.php:163 tmp/brasil/./item.php:233
+#: tmp/brasil/./template-contact.php:45 tmp/brasil/./contact.php:43
+#: tmp/brasil/./item-contact.php:49 tmp/brasil/./item-send-friend.php:47
+#: tmp/brasil/./user-public-profile.php:122
+msgid "Your name"
+msgstr "Your name"
+
+#: tmp/brasil/./item.php:164
+msgid "Your e-mail"
+msgstr "Your e-mail"
+
+#: tmp/brasil/./item.php:166
+msgid "Title"
+msgstr "Title"
+
+#: tmp/brasil/./item.php:167
+msgid "Comment"
+msgstr "Comment"
+
+#: tmp/brasil/./item.php:168 tmp/brasil/./item.php:260
+#: tmp/brasil/./template-contact.php:48 tmp/brasil/./contact.php:47
+#: tmp/brasil/./item-send-friend.php:55
+#: tmp/brasil/./user-public-profile.php:142
+msgid "Send"
+msgstr "Send"
+
+#: tmp/brasil/./item.php:180
+msgid "Image"
+msgstr "Image"
+
+#: tmp/brasil/./item.php:199 tmp/brasil/./user-public-profile.php:113
+msgid "Contact publisher"
+msgstr "Contact publisher"
+
+#: tmp/brasil/./item.php:202
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "The listing is expired. You can't contact the publisher."
+
+#: tmp/brasil/./item.php:206
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "It's your own listing, you can't contact the publisher."
+
+#: tmp/brasil/./item.php:210
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"You must log in or register a new account in order to contact the advertiser"
+
+#: tmp/brasil/./item.php:213 tmp/brasil/./header.php:45
+msgid "Login"
+msgstr "Login"
+
+#: tmp/brasil/./item.php:214 tmp/brasil/./user-login.php:43
+#: tmp/brasil/./header.php:48
+msgid "Register for a free account"
+msgstr "Register for a free account"
+
+#: tmp/brasil/./item.php:218 tmp/brasil/./item.php:220
+#: tmp/brasil/./user-profile.php:70 tmp/brasil/./item-post.php:223
+#: tmp/brasil/./user-register.php:43
+msgid "Name"
+msgstr "Name"
+
+#: tmp/brasil/./item.php:226
+msgid "Tel"
+msgstr "Tel"
+
+#: tmp/brasil/./item.php:234 tmp/brasil/./template-contact.php:46
+#: tmp/brasil/./contact.php:44 tmp/brasil/./item-contact.php:50
+#: tmp/brasil/./item-send-friend.php:48
+#: tmp/brasil/./user-public-profile.php:123
+msgid "Your e-mail address"
+msgstr "Your e-mail address"
+
+#: tmp/brasil/./item.php:235 tmp/brasil/./item-contact.php:52
+#: tmp/brasil/./user-public-profile.php:124
+msgid "Phone number"
+msgstr "Phone number"
+
+#: tmp/brasil/./item.php:235 tmp/brasil/./template-contact.php:43
+#: tmp/brasil/./template-contact.php:45 tmp/brasil/./contact.php:41
+#: tmp/brasil/./contact.php:43 tmp/brasil/./item-contact.php:52
+#: tmp/brasil/./user-public-profile.php:124
+msgid "optional"
+msgstr "optional"
+
+#: tmp/brasil/./item.php:237
+msgid "Attachments"
+msgstr "Attachments"
+
+#: tmp/brasil/./item.php:240 tmp/brasil/./template-contact.php:44
+#: tmp/brasil/./contact.php:42 tmp/brasil/./item-contact.php:53
+#: tmp/brasil/./item-send-friend.php:52
+#: tmp/brasil/./user-public-profile.php:125
+msgid "Message"
+msgstr "Message"
+
+#: tmp/brasil/./item.php:254 tmp/brasil/./user-public-profile.php:136
+msgid "Enter the words above"
+msgstr "Enter the words above"
+
+#: tmp/brasil/./item.php:256 tmp/brasil/./user-public-profile.php:138
+msgid "Help"
+msgstr "Help"
+
+#: tmp/brasil/./user-forgot_password.php:41
+#: tmp/brasil/./user-change_password.php:49
+msgid "New password"
+msgstr "New password"
+
+#: tmp/brasil/./user-forgot_password.php:45
+#: tmp/brasil/./user-change_password.php:53
+msgid "Repeat new password"
+msgstr "Repeat new password"
+
+#: tmp/brasil/./user-forgot_password.php:48
+msgid "Change password"
+msgstr "Change password"
+
+#: tmp/brasil/./search.php:194
+msgid "Sort by"
+msgstr "Sort by"
+
+#: tmp/brasil/./search.php:213
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "There are no results matching \"%s\""
+
+#: tmp/brasil/./search.php:242
+msgid "Your search"
+msgstr "Your search"
+
+#: tmp/brasil/./search.php:247 tmp/brasil/./main.php:102
+#: tmp/brasil/./user-public-profile.php:69
+msgid "Location"
+msgstr "Location"
+
+#: tmp/brasil/./search.php:257
+msgid "Show only"
+msgstr "Show only"
+
+#: tmp/brasil/./search.php:262
+msgid "Show only listings with pictures"
+msgstr "Show only listings with pictures"
+
+#: tmp/brasil/./search.php:270
+msgid "Min"
+msgstr "Min"
+
+#: tmp/brasil/./search.php:272
+msgid "Max"
+msgstr "Max"
+
+#: tmp/brasil/./search.php:309
+msgid "Apply"
+msgstr "Apply"
+
+#: tmp/brasil/./search.php:327
+msgid "Selected"
+msgstr "Selected"
+
+#: tmp/brasil/./search.php:328
+msgid "Nothing selected, input was"
+msgstr "Nothing selected, input was"
+
+#: tmp/brasil/./user-profile.php:43
+msgid "Update your profile"
+msgstr "Update your profile"
+
+#: tmp/brasil/./user-profile.php:74 tmp/brasil/./user-change_username.php:95
+msgid "Username"
+msgstr "Username"
+
+#: tmp/brasil/./user-profile.php:78
+msgid "Modify username"
+msgstr "Modify username"
+
+#: tmp/brasil/./user-profile.php:86
+msgid "Modify e-mail"
+msgstr "Modify e-mail"
+
+#: tmp/brasil/./user-profile.php:86
+msgid "Modify password"
+msgstr "Modify password"
+
+#: tmp/brasil/./user-profile.php:90
+msgid "User type"
+msgstr "User type"
+
+#: tmp/brasil/./user-profile.php:94
+msgid "Cell phone"
+msgstr "Cell phone"
+
+#: tmp/brasil/./user-profile.php:98
+msgid "Phone"
+msgstr "Phone"
+
+#: tmp/brasil/./user-profile.php:122 tmp/brasil/./user-public-profile.php:70
+msgid "Website"
+msgstr "Website"
+
+#: tmp/brasil/./user-profile.php:130
+msgid "Delete my account"
+msgstr "Delete my account"
+
+#: tmp/brasil/./user-profile.php:137
+msgid "Delete account"
+msgstr "Delete account"
+
+#: tmp/brasil/./user-profile.php:140
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"All your listings and alerts will be removed, this action can not be undone."
+
+#: tmp/brasil/./user-login.php:33
+msgid "Access to your account"
+msgstr "Access to your account"
+
+#: tmp/brasil/./user-login.php:39 tmp/brasil/./header.php:56
+#: tmp/brasil/./user-register.php:44
+msgid "Password"
+msgstr "Password"
+
+#: tmp/brasil/./user-login.php:40 tmp/brasil/./header.php:58
+msgid "Remember me"
+msgstr "Remember me"
+
+#: tmp/brasil/./user-login.php:41 tmp/brasil/./header.php:59
+msgid "Log in"
+msgstr "Log in"
+
+#: tmp/brasil/./user-login.php:43 tmp/brasil/./header.php:61
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: tmp/brasil/./template-contact.php:37 tmp/brasil/./contact.php:35
+msgid "Contact us"
+msgstr "Contact us"
+
+#: tmp/brasil/./template-contact.php:43 tmp/brasil/./contact.php:41
+msgid "Subject"
+msgstr "Subject"
+
+#: tmp/brasil/./search_list.php:41 tmp/brasil/./search_gallery.php:41
+msgid "Sponsored ad"
+msgstr "Sponsored ad"
+
+#: tmp/brasil/./inc.search.php:56
+msgid "Search"
+msgstr "Search"
+
+#: tmp/brasil/./user-dashboard.php:39
+#, php-format
+msgid "Listings from %s"
+msgstr "Listings from %s"
+
+#: tmp/brasil/./user-dashboard.php:41
+msgid "No listings have been added yet"
+msgstr "No listings have been added yet"
+
+#: tmp/brasil/./user-dashboard.php:52
+msgid "View listing"
+msgstr "View listing"
+
+#: tmp/brasil/./functions.php:65
+msgid "Theme settings updated correctly"
+msgstr "Theme settings updated correctly"
+
+#: tmp/brasil/./functions.php:72
+msgid "The logo image has been uploaded correctly"
+msgstr "The logo image has been uploaded correctly"
+
+#: tmp/brasil/./functions.php:74 tmp/brasil/./functions.php:77
+msgid "An error has occurred, please try again"
+msgstr "An error has occurred, please try again"
+
+#: tmp/brasil/./functions.php:84
+msgid "The logo image has been removed"
+msgstr "The logo image has been removed"
+
+#: tmp/brasil/./functions.php:86
+msgid "Image not found"
+msgstr "Image not found"
+
+#: tmp/brasil/./functions.php:109
+msgid "ie. PHP Programmer"
+msgstr "ie. PHP Programmer"
+
+#: tmp/brasil/./user-change_username.php:40
+msgid "Username: this field is required"
+msgstr "Username: this field is required"
+
+#: tmp/brasil/./user-change_username.php:65
+msgid "The username is available"
+msgstr "The username is available"
+
+#: tmp/brasil/./user-change_username.php:67
+msgid "The username is NOT available"
+msgstr "The username is NOT available"
+
+#: tmp/brasil/./user-change_username.php:88
+msgid "Change your username"
+msgstr "Change your username"
+
+#: tmp/brasil/./user-change_username.php:99
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+
+#: tmp/brasil/./item-contact.php:43
+msgid "To (seller)"
+msgstr "To (seller)"
+
+#: tmp/brasil/./item-contact.php:44 tmp/brasil/./item-send-friend.php:42
+msgid "Listing"
+msgstr "Listing"
+
+#: tmp/brasil/./item-contact.php:55
+msgid "Send message"
+msgstr "Send message"
+
+#: tmp/brasil/./header.php:39
+#, php-format
+msgid "Hi %s"
+msgstr "Hi %s"
+
+#: tmp/brasil/./header.php:40
+msgid "My account"
+msgstr "My account"
+
+#: tmp/brasil/./header.php:41
+msgid "Logout"
+msgstr "Logout"
+
+#: tmp/brasil/./header.php:71
+msgid "Language"
+msgstr "Language"
+
+#: tmp/brasil/./header.php:84
+msgid "Publish your ad for free"
+msgstr "Publish your ad for free"
+
+#: tmp/brasil/./head.php:41
+msgid "No file selected"
+msgstr "No file selected"
+
+#: tmp/brasil/./head.php:42
+msgid "Choose File"
+msgstr "Choose File"
+
+#: tmp/brasil/./admin/settings.php:12
+msgid ""
+"I would like to contribute to the development of OSClass with a donation of"
+msgstr ""
+"I would like to contribute to the development of OSClass with a donation of"
+
+#: tmp/brasil/./admin/settings.php:17
+msgid "Custom"
+msgstr "Custom"
+
+#: tmp/brasil/./admin/settings.php:18
+msgid "Donate"
+msgstr "Donate"
+
+#: tmp/brasil/./admin/settings.php:22 tmp/brasil/./inc.functions.php:18
+#: tmp/brasil/./inc.functions.php:26
+msgid "Theme settings"
+msgstr "Theme settings"
+
+#: tmp/brasil/./admin/settings.php:28
+msgid "Search placeholder"
+msgstr "Search placeholder"
+
+#: tmp/brasil/./admin/settings.php:33
+msgid "Footer link"
+msgstr "Footer link"
+
+#: tmp/brasil/./admin/settings.php:35
+msgid ""
+"I want to help OSClass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"I want to help OSClass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+
+#: tmp/brasil/./admin/settings.php:36
+msgid ""
+"This website is proudly using the <a title=\"OSClass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+msgstr ""
+"This website is proudly using the <a title=\"OSClass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+
+#: tmp/brasil/./admin/settings.php:43
+msgid "Location input"
+msgstr "Location input"
+
+#: tmp/brasil/./admin/settings.php:47
+msgid "Show location input as:"
+msgstr "Show location input as:"
+
+#: tmp/brasil/./admin/settings.php:50
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: tmp/brasil/./admin/settings.php:51
+msgid "Autocomplete"
+msgstr "Autocomplete"
+
+#: tmp/brasil/./admin/settings.php:58
+msgid "Ads management"
+msgstr "Ads management"
+
+#: tmp/brasil/./admin/settings.php:62
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+
+#: tmp/brasil/./admin/settings.php:62
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+
+#: tmp/brasil/./admin/settings.php:68
+msgid "Header 728x90"
+msgstr "Header 728x90"
+
+#: tmp/brasil/./admin/settings.php:72
+msgid ""
+"This ad will be shown at the top of your website, next to the site title and "
+"above the search results. Note that the size of the ad has to be 728x90 "
+"pixels."
+msgstr ""
+"This ad will be shown at the top of your website, next to the site title and "
+"above the search results. Note that the size of the ad has to be 728x90 "
+"pixels."
+
+#: tmp/brasil/./admin/settings.php:76
+msgid "Homepage 728x90"
+msgstr "Homepage 728x90"
+
+#: tmp/brasil/./admin/settings.php:80
+msgid ""
+"This ad will be shown on the main site of your website. It will appear both "
+"at the top and bottom of your site homepage. Note that the size of the ad "
+"has to be 728x90 pixels."
+msgstr ""
+"This ad will be shown on the main site of your website. It will appear both "
+"at the top and bottom of your site homepage. Note that the size of the ad "
+"has to be 728x90 pixels."
+
+#: tmp/brasil/./admin/settings.php:84
+msgid "Search results 728x90 (top of the page)"
+msgstr "Search results 728x90 (top of the page)"
+
+#: tmp/brasil/./admin/settings.php:88
+msgid ""
+"This ad will be shown on top of the search results of your site. Note that "
+"the size of the ad has to be 728x90 pixels."
+msgstr ""
+"This ad will be shown on top of the search results of your site. Note that "
+"the size of the ad has to be 728x90 pixels."
+
+#: tmp/brasil/./admin/settings.php:92
+msgid "Search results 728x90 (middle of the page)"
+msgstr "Search results 728x90 (middle of the page)"
+
+#: tmp/brasil/./admin/settings.php:96
+msgid ""
+"This ad will be shown among the search results of your site. Note that the "
+"size of the ad has to be 728x90 pixels."
+msgstr ""
+"This ad will be shown among the search results of your site. Note that the "
+"size of the ad has to be 728x90 pixels."
+
+#: tmp/brasil/./admin/settings.php:100
+msgid "Sidebar 300x250"
+msgstr "Sidebar 300x250"
+
+#: tmp/brasil/./admin/settings.php:104
+msgid ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page. Note that the size of the ad has to be 300x350 pixels."
+msgstr ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page. Note that the size of the ad has to be 300x350 pixels."
+
+#: tmp/brasil/./admin/settings.php:108 tmp/brasil/./admin/map_settings.php:36
+#: tmp/brasil/./admin/map_settings.php:57
+msgid "Save changes"
+msgstr "Save changes"
+
+#: tmp/brasil/./admin/map_settings.php:2
+msgid "Map Options"
+msgstr "Map Options"
+
+#: tmp/brasil/./admin/map_settings.php:3
+msgid "How to assign a region to your map?"
+msgstr "How to assign a region to your map?"
+
+#: tmp/brasil/./admin/map_settings.php:3
+msgid ""
+"First, click in the map to select the area you want to set. Then, a dialog "
+"will appear and you only need to select the region you want to assign. "
+"Finally, once you have selected the region, click the save button."
+msgstr ""
+"First, click in the map to select the area you want to set. Then, a dialog "
+"will appear and you only need to select the region you want to assign. "
+"Finally, once you have selected the region, click the save button."
+
+#: tmp/brasil/./admin/map_settings.php:11
+#: tmp/brasil/./admin/map_settings.php:28
+#: tmp/brasil/./admin/map_settings.php:52
+#: tmp/brasil/./admin/map_settings.php:75
+msgid "Select a region"
+msgstr "Select a region"
+
+#: tmp/brasil/./admin/map_settings.php:32
+msgid "Select a region first"
+msgstr "Select a region first"
+
+#: tmp/brasil/./admin/header.php:5 tmp/brasil/./inc.functions.php:17
+#: tmp/brasil/./inc.functions.php:25
+msgid "Header logo"
+msgstr "Header logo"
+
+#: tmp/brasil/./admin/header.php:8
+msgid "Preview"
+msgstr "Preview"
+
+#: tmp/brasil/./admin/header.php:15
+msgid "Remove logo"
+msgstr "Remove logo"
+
+#: tmp/brasil/./admin/header.php:23
+msgid "No logo has been uploaded yet"
+msgstr "No logo has been uploaded yet"
+
+#: tmp/brasil/./admin/header.php:26
+msgid "Upload logo"
+msgstr "Upload logo"
+
+#: tmp/brasil/./admin/header.php:28
+msgid "The preferred size of the logo is 600x100."
+msgstr "The preferred size of the logo is 600x100."
+
+#: tmp/brasil/./admin/header.php:30
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+
+#: tmp/brasil/./admin/header.php:38
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo image (png,gif,jpg)"
+
+#: tmp/brasil/./admin/header.php:44
+msgid "Upload"
+msgstr "Upload"
+
+#: tmp/brasil/./admin/header.php:53
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "The images folder <strong>%s</strong> is not writable on your server"
+
+#: tmp/brasil/./admin/header.php:54
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr "OSClass can't upload the logo image from the administration panel."
+
+#: tmp/brasil/./admin/header.php:55
+msgid "Please make the aforementioned image folder writable."
+msgstr "Please make the aforementioned image folder writable."
+
+#: tmp/brasil/./admin/header.php:60
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"To make a directory writable under UNIX execute this command from the shell:"
+
+#: tmp/brasil/./item-post.php:116
+msgid "Publish a listing"
+msgstr "Publish a listing"
+
+#: tmp/brasil/./item-post.php:221
+msgid "Seller's information"
+msgstr "Seller's information"
+
+#: tmp/brasil/./item-post.php:234
+msgid "Show e-mail on the listing page"
+msgstr "Show e-mail on the listing page"
+
+#: tmp/brasil/./item-post.php:247
+msgid "Publish"
+msgstr "Publish"
+
+#: tmp/brasil/./footer.php:28
+msgid "Contact"
+msgstr "Contact"
+
+#: tmp/brasil/./footer.php:34
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+
+#: tmp/brasil/./footer.php:47
+msgid "Your search must be at least three characters long"
+msgstr "Your search must be at least three characters long"
+
+#: tmp/brasil/./item-send-friend.php:35
+msgid "Send to a friend"
+msgstr "Send to a friend"
+
+#: tmp/brasil/./item-send-friend.php:50
+msgid "Your friend's name"
+msgstr "Your friend's name"
+
+#: tmp/brasil/./item-send-friend.php:51
+msgid "Your friend's e-mail address"
+msgstr "Your friend's e-mail address"
+
+#: tmp/brasil/./user-register.php:36
+msgid "Register an account for free"
+msgstr "Register an account for free"
+
+#: tmp/brasil/./user-register.php:45
+msgid "Re-type password"
+msgstr "Re-type password"
+
+#: tmp/brasil/./user-register.php:47
+msgid "Passwords don't match"
+msgstr "Passwords don't match"
+
+#: tmp/brasil/./user-register.php:52
+msgid "Create"
+msgstr "Create"
+
+#: tmp/brasil/./alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr "You have sucessfully subscribed to the alert"
+
+#: tmp/brasil/./alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr "There was a problem with the alert"
+
+#: tmp/brasil/./alert-form.php:39
+msgid "Subscribe to this search"
+msgstr "Subscribe to this search"
+
+#: tmp/brasil/./alert-form.php:55
+msgid "Subscribe now"
+msgstr "Subscribe now"
+
+#: tmp/brasil/./inc.functions.php:19 tmp/brasil/./inc.functions.php:27
+msgid "Map settings"
+msgstr "Map settings"
+
+#: tmp/brasil/./inc.functions.php:23
+msgid "Brasil theme"
+msgstr "Brasil theme"
+
+#: tmp/brasil/./inc.functions.php:41
+msgid "Region saved correctly"
+msgstr "Region saved correctly"
+
+#: tmp/brasil/./inc.functions.php:94
+#, php-format
+msgid ""
+"Wait! There are unassigned map areas in the map. <a href=\"%s\">Click here</"
+"a> to assign regions to the map."
+msgstr ""
+"Wait! There are unassigned map areas in the map. <a href=\"%s\">Click here</"
+"a> to assign regions to the map."
+
+#: tmp/brasil/./main.php:54
+msgid "Latest Listings"
+msgstr "Latest Listings"
+
+#: tmp/brasil/./main.php:56
+msgid "No Latest Listings"
+msgstr "No Latest Listings"
+
+#: tmp/brasil/./main.php:86
+msgid "See all offers"
+msgstr "See all offers"
+
+#: tmp/brasil/./user-public-profile.php:59
+#, php-format
+msgid "%s's profile"
+msgstr "%s's profile"
+
+#: tmp/brasil/./user-public-profile.php:65
+msgid "Profile"
+msgstr "Profile"
+
+#: tmp/brasil/./user-public-profile.php:67
+msgid "Full name"
+msgstr "Full name"
+
+#: tmp/brasil/./user-public-profile.php:71
+msgid "User Description"
+msgstr "User Description"
+
+#: tmp/brasil/./user-public-profile.php:75
+msgid "Latest listings"
+msgstr "Latest listings"
+
+#: tmp/brasil/./user-change_password.php:39
+msgid "Change your password"
+msgstr "Change your password"
+
+#: tmp/brasil/./user-change_password.php:45
+msgid "Current password"
+msgstr "Current password"
+
+#: tmp/brasil/./404.php:34
+msgid "Page not found"
+msgstr "Page not found"
+
+#: tmp/brasil/./user-alerts.php:37
+msgid "Your alerts"
+msgstr "Your alerts"
+
+#: tmp/brasil/./user-alerts.php:39
+msgid "You do not have any alerts yet"
+msgstr "You do not have any alerts yet"
+
+#: tmp/brasil/./user-alerts.php:43
+msgid "Alert"
+msgstr "Alert"
+
+#: tmp/brasil/./user-alerts.php:43
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "This action can't be undone. Are you sure you want to continue?"
+
+#: tmp/brasil/./user-alerts.php:43
+msgid "Delete this alert"
+msgstr "Delete this alert"
+
+#: tmp/brasil/./user-alerts.php:57
+msgid "Listings"
+msgstr "Listings"
